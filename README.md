@@ -6,4 +6,4 @@ https://simplegametutorials.github.io/
 
 
 snake
-![alt tag](https://raw.githubusercontent.com/doctorru/love2d-simple-games/blob/master/screenshot/snake.png)
+![alt tag](https://raw.githubusercontent.com/DoctorRu/love2d-simple-games/master/screenshot/snake.png)
