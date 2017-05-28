@@ -1,7 +1,7 @@
-# love2d-simple-games
+# Simple games made with Love2D and Lua
 
 
-Source:
+Original source:
 https://simplegametutorials.github.io/
 
 
